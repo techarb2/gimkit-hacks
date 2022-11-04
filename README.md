@@ -18,7 +18,7 @@
 - Trust No-One:
     - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Trust%20No-One/Show%20Imposters.js">Show Imposters</a> - This program will alert who the imposters are.
 - Classic:
-    - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Classic/Get%20Cash.js">Get Cash</a> - This program will set your cash to anything you want [after refreshing and (re-)joining a game.]
+    - <a href="https://github.com/techarb2/gimkit-hacks/blob/main/Classic/Get%20Cash.js">Get Cash</a> - This program will set your cash to anything you want [after refreshing and (re-)joining a game.]
 
 #### I am not responsible for your actions with these cheats.
 
